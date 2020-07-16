@@ -1,4 +1,5 @@
-### Hi there 👋
+### Hi there 👋 its me vadiv 😎 cool things is on its way, keep an eye on here.
+[![awesome vadiv.](https://miro.medium.com/max/700/0*GdJIbmPH1JLSLSj1.gif)](https://sevenhillsinfotech.com)
 
 <!--
 **vadivkanag/vadivkanag** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
