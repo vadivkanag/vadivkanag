@@ -1,4 +1,4 @@
-### Hi there 👋 its me vadiv 😎 cool things are on its way, keep an eye on here.
+### Hi there 👋 its me vadiv 😎
 [![awesome vadiv.](https://miro.medium.com/max/700/0*GdJIbmPH1JLSLSj1.gif)](https://sevenhillsinfotech.com)
 
 <!--
